@@ -1,1 +1,1 @@
-this is the code of to do list application in python
+this is the code of GUI based to do list application in python
